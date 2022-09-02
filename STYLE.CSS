@@ -115,6 +115,7 @@ footer{
 }
 nav a{
     border-bottom: white;
+    color: white;
 }
 a{
     text-decoration:none;
